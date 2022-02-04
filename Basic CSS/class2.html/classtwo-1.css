@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-style: italic;
+    font-weight: 900;
+    text-decoration: underline;
+    text-transform: capitalize;
+    word-spacing: 15px;
+    color: #e67e22;
+    text-align: center;
+    direction: rtl;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    font-size: 25px;
+    color: coral;
+    text-align: justify;
+    text-indent: 30px;
+    line-height: 30px;
+    text-shadow: 5px 15px 5px rgb(48, 33, 33);
+}
